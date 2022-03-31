@@ -85,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -97,6 +99,7 @@
   },
   "active": "925235d83e247de2",
   "lastOpenFiles": [
-    "README.md"
+    "README.md",
+    "writethedocs.org.md"
   ]
 }
