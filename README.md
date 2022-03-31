@@ -7,7 +7,7 @@ En la documentación que hagamos es donde la persona que vea nuestro código con
 
 En otras palabras, la documentación es la carta de presentación de nuestro proyecto y probablemente con lo que interactuarán más nuestrxs usuarixs.
 
-![[Pasted image 20220330213330.png]]
+![Pasted image 20220330213330.png](assets/Pasted_image_20220330213330.png)
 > **Nota:** Usualmente la documentación la encontraremos en un archivo `README.md` como este. Debido a que en los sistemas de almacenamiento para código en la nube es el primer archivo que muestran.
 
 ## ¿Qué escribimos en la documentación?
